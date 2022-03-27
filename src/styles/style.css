@@ -1,0 +1,25 @@
+.header {
+    width: 100%;
+    font-size: 20px;
+    background-color: #000048;
+    text-align: center;
+}
+#header {
+    display: -webkit-inline-flex;
+}
+.header a {
+    margin-right: 50px;
+    text-decoration: none;
+    color: #f9f9f9;
+}
+.header a:hover {
+    color: wheat;
+}
+
+.content {
+    text-align: center;
+    border: 1px solid black;
+}
+.footer {
+    text-align: center;
+}

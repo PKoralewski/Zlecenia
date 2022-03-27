@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1785"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="Zlecenie.svg">
+  <defs
+     id="defs1779" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="431.40724"
+     inkscape:cy="541.75371"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1368"
+     inkscape:window-height="1040"
+     inkscape:window-x="687"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata1782">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Warstwa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:0.722581;fill:#000048;fill-opacity:1;stroke-width:0.999994;stroke-dasharray:7.99999, 0.99999400000000005;paint-order:stroke markers fill"
+       id="rect1474"
+       width="185.58632"
+       height="23.434526"
+       x="12.662201"
+       y="11.150303" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.264583;"
+       x="84.099693"
+       y="25.135422"
+       id="text1488"><tspan
+         sodipodi:role="line"
+         x="84.099693"
+         y="25.135422"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583;fill:#f9f9f9;"
+         id="tspan1528">Zlecenie</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.264583;"
+       x="143.81993"
+       y="20.599709"
+       id="text1492"><tspan
+         sodipodi:role="line"
+         id="tspan1490"
+         x="143.81993"
+         y="20.599709"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583;fill:#f9f9f9;">Archiwum </tspan><tspan
+         sodipodi:role="line"
+         x="143.81993"
+         y="29.419159"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583;fill:#f9f9f9;"
+         id="tspan1538">prac</tspan></text>
+    <rect
+       style="opacity:0.722581;fill:#ececec;fill-opacity:1;stroke-width:1;stroke-dasharray:7.99999, 1;paint-order:stroke markers fill"
+       id="rect1494"
+       width="186.72025"
+       height="222.25"
+       x="12.662201"
+       y="42.900307" />
+    <rect
+       style="opacity:0.722581;fill:#b3b3b3;fill-opacity:1;stroke-width:1;stroke-dasharray:7.99999, 1;paint-order:stroke markers fill"
+       id="rect1496"
+       width="187.85417"
+       height="15.875"
+       x="12.662201"
+       y="275.35565" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.264583;"
+       x="24.001488"
+       y="20.977684"
+       id="text1534"><tspan
+         sodipodi:role="line"
+         id="tspan1532"
+         x="24.001488"
+         y="20.977684"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583;fill:#f9f9f9;">Aktualizacja </tspan><tspan
+         sodipodi:role="line"
+         x="24.001488"
+         y="29.797134"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583;fill:#f9f9f9;"
+         id="tspan1536">danych</tspan></text>
+    <rect
+       style="opacity:0.722581;fill:#808080;fill-opacity:1;stroke-width:1;stroke-dasharray:7.99999, 1;paint-order:stroke markers fill"
+       id="rect1498-5-5"
+       width="68.791664"
+       height="10.583333"
+       x="70.492561"
+       y="83.343758" />
+    <rect
+       style="opacity:0.722581;fill:#808080;fill-opacity:1;stroke-width:1;stroke-dasharray:7.99999, 1;paint-order:stroke markers fill"
+       id="rect1589"
+       width="37.797619"
+       height="15.119047"
+       x="82.965782"
+       y="200.89435" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+       x="91.28125"
+       y="207.31995"
+       id="text1593"><tspan
+         sodipodi:role="line"
+         id="tspan1591"
+         x="91.28125"
+         y="207.31995"
+         style="font-size:5.64444px;stroke-width:0.264583">Dodaj</tspan><tspan
+         sodipodi:role="line"
+         x="91.28125"
+         y="214.3755"
+         style="font-size:5.64444px;stroke-width:0.264583"
+         id="tspan1595">zlecenie</tspan></text>
+    <rect
+       style="opacity:0.722581;fill:#808080;fill-opacity:1;stroke-width:1;stroke-dasharray:7.99999, 1;paint-order:stroke markers fill"
+       id="rect1498-4"
+       width="68.791664"
+       height="10.583333"
+       x="70.492569"
+       y="106.02232" />
+    <rect
+       style="opacity:0.722581;fill:#808080;fill-opacity:1;stroke-width:1;stroke-dasharray:7.99999, 1;paint-order:stroke markers fill"
+       id="rect1498-8"
+       width="68.791664"
+       height="10.583333"
+       x="70.114586"
+       y="126.81101" />
+    <rect
+       style="opacity:0.722581;fill:#808080;fill-opacity:1;stroke-width:1;stroke-dasharray:7.99999, 1;paint-order:stroke markers fill"
+       id="rect1498-7"
+       width="68.791664"
+       height="10.583333"
+       x="69.358635"
+       y="150.62354" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="88.597755"
+       y="57.057186"
+       id="text1488-6"><tspan
+         sodipodi:role="line"
+         x="88.597755"
+         y="57.057186"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         id="tspan1528-0">Zlecenie</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+       x="70.681541"
+       y="78.241066"
+       id="text2545"><tspan
+         sodipodi:role="line"
+         x="70.681541"
+         y="78.241066"
+         style="font-size:6.35px;stroke-width:0.264583"
+         id="tspan2547">Kontrahent:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+       x="70.492569"
+       y="102.24255"
+       id="text2553"><tspan
+         sodipodi:role="line"
+         id="tspan2551"
+         x="70.492569"
+         y="102.24255"
+         style="font-size:6.35px;stroke-width:0.264583">Data:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+       x="70.681549"
+       y="123.97618"
+       id="text2557"><tspan
+         sodipodi:role="line"
+         id="tspan2555"
+         x="70.681549"
+         y="123.97618"
+         style="font-size:6.35px;stroke-width:0.264583">Czas:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+       x="70.303574"
+       y="146.27678"
+       id="text2561"><tspan
+         sodipodi:role="line"
+         id="tspan2559"
+         x="70.303574"
+         y="146.27678"
+         style="font-size:6.35px;stroke-width:0.264583">Wystawca:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+       x="70.303574"
+       y="175.75894"
+       id="text2565"><tspan
+         sodipodi:role="line"
+         id="tspan2563"
+         x="70.303574"
+         y="175.75894"
+         style="font-size:6.35px;stroke-width:0.264583">Ukończone</tspan></text>
+    <rect
+       style="opacity:0.722581;fill:#858585;fill-opacity:0.921569;stroke-width:1;stroke-dasharray:7.99999, 1;paint-order:stroke markers fill"
+       id="rect2567"
+       width="9.0714283"
+       height="7.1815472"
+       x="129.26787"
+       y="170.84525" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+       x="87.242111"
+       y="285.36069"
+       id="text3451"><tspan
+         sodipodi:role="line"
+         id="tspan3449"
+         x="87.242111"
+         y="285.36069"
+         style="font-size:7.05556px;stroke-width:0.264583">©2022</tspan></text>
+  </g>
+</svg>
