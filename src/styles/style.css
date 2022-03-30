@@ -1,25 +1,79 @@
-.header {
-    width: 100%;
-    font-size: 20px;
+/* .header {
     background-color: #000048;
     text-align: center;
+    margin-top: 10px;
+    margin-bottom: 50px;
+} */
+/* h1.hyperlink {
+    display: inline-block;
 }
-#header {
-    display: -webkit-inline-flex;
-}
-.header a {
+h1.hyperlink a {
     margin-right: 50px;
     text-decoration: none;
     color: #f9f9f9;
 }
-.header a:hover {
+h1.hyperlink a:hover {
     color: wheat;
+} */
+/* .footer {
+    text-align: center;
+    font-size: 18px;
+    background-color: #b3b3b3ff;
+    padding: 10px;
+    margin-top: 10px;
+} */
+/* p {
+    font-size: 18px;
+} */
+/* h1 {
+    text-align: center;
+    padding: 10px;
+} */
+/* .content {
+    padding-top: 10px;
+    padding-bottom: 30%;
+    /* padding-left: 30px; */
+/* background-color: #f2f2f2ff;
+    margin-bottom: 20px;
+    text-align: center;
+    height: 730px;
+} */
+/* p.contractor_text {
+    font-size: 26px;
+    margin-top: 30px;
+    margin-bottom: 40px;
 }
+p.address_text {
+    font-size: 26px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+} */
+/* p.content_header_start {
+    font-size: 32px;
+    font-weight: 700;
+    margin-top: 20px;
+}
+p.content_header_errand {
+    font-size: 32px;
+    font-weight: 700;
+    margin-top: 20px;
+    margin-bottom: 80px;
+}
+p.content_header_archive {
+    font-size: 32px;
+    font-weight: 700;
+    margin-top: 20px;
+} */
 
-.content {
-    text-align: center;
-    border: 1px solid black;
+.color-hover-wheat:hover {
+    color: wheat !important;
 }
-.footer {
-    text-align: center;
+.bg-navy {
+    background-color: #000048;
+}
+.bg-content {
+    background-color: #f2f2f2ff;
+}
+.bg-grey {
+    background-color: #b3b3b3ff;
 }

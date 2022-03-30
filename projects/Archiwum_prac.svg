@@ -32,8 +32,8 @@
      showgrid="false"
      inkscape:window-width="1465"
      inkscape:window-height="1040"
-     inkscape:window-x="514"
-     inkscape:window-y="3"
+     inkscape:window-x="439"
+     inkscape:window-y="0"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata2572">
@@ -43,7 +43,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -269,5 +269,41 @@
          x="89.131996"
          y="285.36069"
          style="font-size:7.05556px;stroke-width:0.264583">©2022</tspan></text>
+    <rect
+       style="opacity:0.722581;fill:#565656;fill-opacity:0.968627;stroke-width:1;stroke-dasharray:7.99998, 1;paint-order:stroke markers fill"
+       id="rect866"
+       width="36.285713"
+       height="10.96131"
+       x="102.05358"
+       y="179.5387" />
+    <rect
+       style="opacity:0.722581;fill:#565656;fill-opacity:1;stroke-width:0.999998;stroke-dasharray:7.99998, 0.999998;paint-order:stroke markers fill"
+       id="rect866-8"
+       width="34.395832"
+       height="10.96131"
+       x="58.01936"
+       y="179.3497" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.93889px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+       x="58.01936"
+       y="187.28719"
+       id="text874"><tspan
+         sodipodi:role="line"
+         id="tspan872"
+         x="58.01936"
+         y="187.28719"
+         style="font-size:4.93889px;stroke-width:0.264583">Usuń zlecenie</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.58611px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+       x="102.80953"
+       y="187.09822"
+       id="text878"><tspan
+         sodipodi:role="line"
+         id="tspan876"
+         x="102.80953"
+         y="187.09822"
+         style="font-size:4.58611px;stroke-width:0.264583">Edytuj zlecenie</tspan></text>
   </g>
 </svg>
