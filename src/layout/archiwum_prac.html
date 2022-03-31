@@ -13,48 +13,48 @@
         <link rel="stylesheet" href="./../styles/style.css" />
     </head>
     <body>
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <div class="header">
-                        <div class="row">
-                            <div
-                                class="col-12 d-flex p-1 justify-content-evenly bg-navy mb-5"
+            <div class="container">
+                <div class="row">
+                    <!-- HEADER -->
+                    <div
+                        class="col-12 d-flex p-1 justify-content-evenly bg-navy mb-5"
+                    >
+                        <h1 class="fs-1 fw-bold mx-auto">
+                            <a
+                                href="start.html"
+                                class="text-decoration-none text-white color-hover-wheat"
+                                >Aktualizacja danych</a
                             >
-                                <h1 class="fs-1 fw-bold mx-auto">
-                                    <a
-                                        href="start.html"
-                                        class="text-decoration-none text-white color-hover-wheat"
-                                        >Aktualizacja danych</a
-                                    >
-                                </h1>
-                                <h1 class="fs-1 fw-bold mx-auto">
-                                    <a
-                                        href="zlecenie.html"
-                                        class="text-decoration-none text-white color-hover-wheat"
-                                        >Zlecenie</a
-                                    >
-                                </h1>
-                                <h1 class="fs-1 fw-bold mx-auto">
-                                    <a
-                                        href="archiwum_prac.html"
-                                        class="text-decoration-none text-white color-hover-wheat"
-                                        >Archiwum prac</a
-                                    >
-                                </h1>
-                            </div>
-                        </div>
+                        </h1>
+                        <h1 class="fs-1 fw-bold mx-auto">
+                            <a
+                                href="zlecenie.html"
+                                class="text-decoration-none text-white color-hover-wheat"
+                                >Zlecenie</a
+                            >
+                        </h1>
+                        <h1 class="fs-1 fw-bold mx-auto">
+                            <a
+                                href="archiwum_prac.html"
+                                class="text-decoration-none text-white color-hover-wheat"
+                                >Archiwum prac</a
+                            >
+                        </h1>
                     </div>
-                    <div class="content">
+
+                    <!-- CONTENT -->
+                    <div class="col-12 bg-content py-3 height-content">
                         <div class="row">
                             <div class="col-12">
-                                <p class="fw-bold fs-2">Archiwum prac</p>
+                                <p class="fw-bold fs-2 text-center mt-3 mb-5">
+                                    Archiwum prac
+                                </p>
                             </div>
                         </div>
                         <div class="row">
-                            <div class="col-12">
-                                <table class="table">
-                                    <thead class="table-dark">
+                            <div class="col-12 mt-4">
+                                <table class="table bg-darkgrey ">
+                                    <thead class="table-dark text-center table-alignment ">
                                         <tr>
                                             <th>Kontrahent</th>
                                             <th>Data</th>
@@ -64,25 +64,31 @@
                                         </tr>
                                     </thead>
                                     <tbody>
-                                        <tr></tr>
+                                        <tr>
+                                            <td>...</td>
+                                            <td>...</td>
+                                            <td>...</td>
+                                            <td>...</td>
+                                            <td>...</td>
+                                        </tr>
                                     </tbody>
                                     <tfoot>
                                         <tr>
-                                            <td>
-                                                <button
-                                                    type="button"
-                                                    class="btn btn-secondary rounded-0 border border-dark shadow-none fw-bold"
-                                                >
-                                                    Usuń zlecenie
-                                                </button>
-                                            </td>
-                                            <td>
-                                                <button
-                                                    type="button"
-                                                    class="btn btn-secondary rounded-0 border border-dark shadow-none fw-bold"
-                                                >
-                                                    Edytuj zlecenie
-                                                </button>
+                                            <td colspan="5">
+                                                <div class="d-flex justify-content-center">
+                                                    <button
+                                                        type="button"
+                                                        class="btn btn-secondary rounded-0 border border-dark shadow-none fw-bold bg-button d-block me-5 my-5"
+                                                    >
+                                                        Usuń zlecenie
+                                                    </button>
+                                                    <button
+                                                        type="button"
+                                                        class="btn btn-secondary rounded-0 border border-dark shadow-none fw-bold bg-button d-block ms-5 my-5"
+                                                    >
+                                                        Edytuj zlecenie
+                                                    </button>
+                                                </div>
                                             </td>
                                         </tr>
                                     </tfoot>
@@ -90,13 +96,8 @@
                             </div>
                         </div>
                     </div>
-                </div>
-            </div>
-            <div class="footer">
-                <div class="row">
-                    <div class="col-12">©2022</div>
-                </div>
-            </div>
+            <!-- FOOTER -->
+            <div class="col-12 bg-grey py-2 text-center mt-4">©2022</div>
         </div>
     </body>
 </html>

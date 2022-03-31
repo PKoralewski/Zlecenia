@@ -15,85 +15,108 @@
     <body>
         <div class="container">
             <div class="row">
-                <div class="col-12">
-                    <div class="header">
-                        <div class="row">
-                            <div
-                                class="col-12 d-flex p-1 justify-content-evenly bg-navy mb-5"
-                            >
-                                <h1 class="fs-1 fw-bold mx-auto">
-                                    <a
-                                        href="start.html"
-                                        class="text-decoration-none text-white color-hover-wheat"
-                                        >Aktualizacja danych</a
-                                    >
-                                </h1>
-                                <h1 class="fs-1 fw-bold mx-auto">
-                                    <a
-                                        href="zlecenie.html"
-                                        class="text-decoration-none text-white color-hover-wheat"
-                                        >Zlecenie</a
-                                    >
-                                </h1>
-                                <h1 class="fs-1 fw-bold mx-auto">
-                                    <a
-                                        href="archiwum_prac.html"
-                                        class="text-decoration-none text-white color-hover-wheat"
-                                        >Archiwum prac</a
-                                    >
-                                </h1>
-                            </div>
+                <!-- HEADER -->
+                <div
+                    class="col-12 d-flex p-1 justify-content-evenly bg-navy mb-5"
+                >
+                    <h1 class="fs-1 fw-bold mx-auto">
+                        <a
+                            href="start.html"
+                            class="text-decoration-none text-white color-hover-wheat"
+                            >Aktualizacja danych</a
+                        >
+                    </h1>
+                    <h1 class="fs-1 fw-bold mx-auto">
+                        <a
+                            href="zlecenie.html"
+                            class="text-decoration-none text-white color-hover-wheat"
+                            >Zlecenie</a
+                        >
+                    </h1>
+                    <h1 class="fs-1 fw-bold mx-auto">
+                        <a
+                            href="archiwum_prac.html"
+                            class="text-decoration-none text-white color-hover-wheat"
+                            >Archiwum prac</a
+                        >
+                    </h1>
+                </div>
+
+                <!-- CONTENT -->
+                <div class="col-12 bg-content height-content">
+                    <div class="row">
+                        <div class="col-12">
+                            <p class="fw-bold fs-2 text-center mt-2 mb-4 py-4">
+                                Zlecenie
+                            </p>
                         </div>
                     </div>
-                    <div class="content">
-                        <div class="row">
-                            <div class="col-12">
-                                <p class="fw-bold fs-2">Zlecenie</p>
-                            </div>
-                            <div class="col-12">
-                                <form>
-                                    <p class="fs-5">
-                                        Kontrahent:<br /><select
-                                            name="contractor"
-                                        ></select>
-                                    </p>
-                                    <p class="fs-5">
-                                        Data:<br /><input
-                                            type="date"
-                                            name="date"
-                                        />
-                                    </p>
-                                    <p class="fs-5">
-                                        Czas:<br /><input
-                                            type="time"
-                                            name="time"
-                                        />
-                                    </p>
-                                    <p class="fs-5">Wystawca:</p>
-                                    <p class="fs-5">
-                                        Ukończone:
-                                        <input
-                                            type="checkbox"
-                                            name="finished"
-                                        />
-                                    </p>
-                                    <br />
-                                    <button
-                                        class="btn btn-secondary rounded-0 border border-dark shadow-none fw-bold"
-                                        name="order_button"
+                    <div class="row">
+                        <div class="col-3 offset-4 mx-auto mt-5">
+                            <form>
+                                <div class="mb-3">
+                                    <label for="contractor" class="form-label"
+                                        >Kontrahent:</label
                                     >
-                                        Dodaj zlecenie
-                                    </button>
-                                </form>
-                            </div>
+                                    <select
+                                        class="form-select"
+                                        aria-label="Default select example"
+                                        id="contractor"
+                                        name="contractor"
+                                    >
+                                        <option selected>
+                                            Wybierz kontrahenta
+                                        </option>
+                                    </select>
+                                </div>
+                                <div class="mb-3">
+                                    <label for="date" class="form-label"
+                                        >Data:</label
+                                    >
+                                    <input
+                                        type="date"
+                                        class="form-control"
+                                        id="date"
+                                        name="date"
+                                    />
+                                </div>
+                                <div class="mb-3">
+                                    <label for="time" class="form-label"
+                                        >Czas:</label
+                                    >
+                                    <input
+                                        type="time"
+                                        class="form-control"
+                                        id="time"
+                                        name="time"
+                                    />
+                                </div>
+                                <div class="mb-3">
+                                    <label>Wystawca:</label>
+                                </div>
+                                <div class="mb-3">
+                                    <label for="finished" class="form-label"
+                                        >Ukończone:</label
+                                    >
+                                    <input
+                                        type="checkbox"
+                                        id="finished"
+                                        name="finished"
+                                    />
+                                </div>
+                                <br />
+                                <button
+                                    type="submit"
+                                    class="btn btn-secondary rounded-0 border border-dark shadow-none fw-bold d-block mx-auto bg-button"
+                                >
+                                    Dodaj zlecenie
+                                </button>
+                            </form>
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="footer">
-                <div class="row">
-                    <div class="col-12">©2022</div>
-                </div>
+                <!-- FOOTER -->
+                <div class="col-12 bg-grey py-2 text-center mt-4">©2022</div>
             </div>
         </div>
     </body>
